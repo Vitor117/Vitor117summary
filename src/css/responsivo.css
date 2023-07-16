@@ -1,0 +1,212 @@
+@media (max-width: 375px) {
+    .card-direita {
+        top: -60px;
+        align-items: center;
+        width: 203%;
+        height: 92%;
+        margin-left: -290px;
+        box-shadow: none;
+        border-radius: 0px 0px 60px 60px;
+    }
+
+
+    .card-esquerda {
+        width: 100%;
+        height: 40%;
+        margin-left: 129px;
+        box-shadow: none;
+    }
+
+    .titulo-1 {
+        font-size: 35px;
+        margin-top: 30px;
+        color: hsl(0, 0%, 71%);
+    }
+
+    .titulo-2 {
+        font-size: 50px;
+        margin-top: 50px;
+    }
+
+    .titulo-3 {
+        margin-top: 400px;
+        margin-left: 15px;
+        font-size: 50px;
+    }
+
+    .barra-1 {
+        margin-left: 22%;
+        margin-top: 55px;
+        width: 580px;
+        height: 100px;
+        border-radius: 20px;
+
+    }
+
+    .barra-2 {
+        margin-left: 22%;
+        margin-top: 185px;
+        width: 580px;
+        height: 100px;
+        border-radius: 20px;
+    }
+
+
+    .barra-3 {
+        margin-left: 22%;
+        margin-top: 310px;
+        width: 580px;
+        height: 100px;
+        border-radius: 20px;
+    }
+
+
+    .barra-4 {
+        margin-left: 22%;
+        margin-top: 440px;
+        width: 580px;
+        height: 100px;
+        border-radius: 20px;
+    }
+
+    .icon-1 {
+        margin-left: 40px;
+        margin-top: 60px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .icon-2 {
+        margin-left: 40px;
+        margin-top: 90px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .icon-3 {
+        margin-left: 40px;
+        margin-top: 75px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .icon-4 {
+        margin-left: 40px;
+        margin-top: 80px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .reacao {
+        margin-left: 110px;
+        margin-top: -53px;
+        font-size: 35px;
+    }
+
+    .memoria {
+        margin-left: 110px;
+        margin-top: -53px;
+        font-size: 35px;
+    }
+
+    .verbal {
+        margin-left: 110px;
+        margin-top: -53px;
+        font-size: 35px;
+    }
+
+    .visual {
+        margin-left: 110px;
+        margin-top: -53px;
+        font-size: 35px;
+    }
+
+    .botao {
+        margin-top: 580px;
+        margin-left: 75px;
+        width: 580px;
+        height: 120px;
+        border-radius: 60px;
+        font-size: 40px;
+    }
+
+    .oitenta {
+        margin-top: -53px;
+        margin-left: 400px;
+        font-size: 35px;
+    }
+
+    .noventa-dois {
+        margin-top: -53px;
+        margin-left: 400px;
+        font-size: 35px;
+    }
+
+    .secenta-um {
+        margin-top: -53px;
+        margin-left: 400px;
+        font-size: 35px;
+    }
+
+    .setenta-dois {
+        margin-top: -53px;
+        margin-left: 400px;
+        font-size: 35px;
+    }
+
+    .cem-1 {
+        margin-top: -53px;
+        margin-left: 450px;
+        font-size: 35px;
+    }
+
+    .cem-2 {
+        margin-top: -53px;
+        margin-left: 450px;
+        font-size: 35px;
+    }
+
+    .cem-3 {
+        margin-top: -53px;
+        margin-left: 450px;
+        font-size: 35px;
+    }
+
+    .cem-4 {
+        margin-top: -53px;
+        margin-left: 450px;
+        font-size: 35px;
+    }
+
+    .circulo {
+        margin-left: 255px;
+        margin-top: -550px;
+        width: 250px;
+        height: 250px;
+        border-radius: 120px;
+
+    }
+
+    .descricao {
+        margin-left: 10px;
+        margin-top: -10px;
+        font-size: 30px;
+        margin-top: -25px;
+        color: hsl(0, 0%, 71%);
+        text-align: center;
+    }
+
+    .result {
+        margin-left: 10px;
+        margin-top: 30px;
+        font-size: 90px;
+    }
+
+    .total {
+        margin-top: -25px;
+        margin-left: 338px;
+        font-size: 30px;
+    }
+
+}
+
